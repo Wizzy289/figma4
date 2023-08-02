@@ -2,13 +2,13 @@
   "overrides": {
     "@svgr/webpack": "$@svgr/webpack"
   },
-  
   "name": "mdb-react-template",
   "version": "6.1.0",
   "homepage": "http://Wizzy289.github.io/Reactproject",
   "description": "template for mdb-react-ui-kit",
   "private": true,
   "dependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
     "framer-motion": "^10.15.0",
     "mdb-react-ui-kit": "6.1.0",
     "react": "^18.1.0",
