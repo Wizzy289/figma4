@@ -4,7 +4,7 @@
   },
   "name": "mdb-react-template",
   "version": "6.1.0",
-  "homepage": "http://Wizzy289.github.io/Reactproject",
+  "homepage": ".",
   "description": "template for mdb-react-ui-kit",
   "private": true,
   "dependencies": {
@@ -22,8 +22,10 @@
     "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
-  },
+    "eject": "react-scripts eject",
+    "build:staging": "env-cmd -f .env.staging npm run build"
+      
+    },
   "keywords": [
     "template",
     "react"
