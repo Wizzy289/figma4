@@ -1,7 +1,8 @@
 {
   "overrides": {
     "@svgr/webpack": "$@svgr/webpack"
-},
+  },
+  
   "name": "mdb-react-template",
   "version": "6.1.0",
   "homepage": "http://Wizzy289.github.io/Reactproject",
