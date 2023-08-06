@@ -1,0 +1,13 @@
+.header{
+    display: flex;
+    background-image: url("./Group.png");
+    background-repeat: no-repeat;
+    background-position: right 10px;
+    background-size:570px;
+ 
+}
+
+.het{
+    border-radius: 2px;
+border: 2px solid var(--colour-main-blue-900, #091133);
+}

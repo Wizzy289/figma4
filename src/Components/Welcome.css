@@ -1,0 +1,8 @@
+.welcome{
+    display: flex;
+background-image: url("./undraw.png");
+background-repeat: no-repeat;
+background-position: right 10px;
+background-size:570px;
+
+}
