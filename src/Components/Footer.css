@@ -1,0 +1,30 @@
+.footer{
+    width: 1184px;
+    position: absolute;
+    top: 3000px;
+    left: 263px;
+}
+
+@media screen and (max-width:1020px) {
+    .footer{
+        top: 3400px;
+        left: 0px;
+
+    }
+
+    .foot{
+        width: 500px;
+    }
+}
+
+@media screen and (max-width:431px) {
+    .footer{
+        top: 2900px;
+        left: 0px;
+
+    }
+
+    .foot{
+        width: 300px;
+    }
+}

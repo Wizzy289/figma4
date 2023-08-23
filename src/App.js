@@ -1,17 +1,11 @@
 import React from 'react';
+import Navbar from './Components/Navbar';
 import Header from './Components/Header';
-import Navbar from './Components/Navabr';
-import Welcome from './Components/Welcome';
-import Intro from './Components/Intro';
-import Social from './Components/Social';
-import Cta from './Components/Cta';
-import Rect from './Components/Rect';
-import Footer from './Components/Footer';
-
-
-
-
-
+import Spons from './Components/Spons';
+import Service from './Components/Service';
+import Travel from './Components/Travel';
+import Testimonial from './Components/Testimonial';
+import Footer from './Components/Footer'
 
 
 function App() {
@@ -20,12 +14,14 @@ function App() {
     <React.Fragment>
     <Navbar />
     <Header />
-    <Welcome />
-    <Intro />
-    <Social />
-    <Cta />
-    <Rect />
+    <Spons />
+    <Service />
+    <Travel />
+    <Testimonial />
     <Footer />
+
+
+
    
     </React.Fragment>   
     </>   

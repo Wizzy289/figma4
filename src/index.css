@@ -2,7 +2,10 @@
 
 body {
   margin: 0;
-  font-family: Roboto, Helvetica, Arial, sans-serif;
+  font-family: 'Noto Sans', Helvetica,  sans-serif;
+  background-repeat: no-repeat;
+  background-position: center;
+  
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
